@@ -1,5 +1,5 @@
 # CursoCSharp
 
-Repositorio sobre meu aprendizado de C#
+Estou aprendendo Csharp e quero aprender Git e GitHub tambem por isso estou colocando tudo que estou aprendo de C# aqui em um repositorio para ir aprendo como dar git init, git commit, git push e etc..
 
-Brevemente junto com MySQL :)
+breve estarei aprendendo MySql para fazer integraçoes com o C# para "projetinho" legais :)
