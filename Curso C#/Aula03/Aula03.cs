@@ -6,8 +6,14 @@ class Aula03
     {
         byte byte1 = 1;
         int numInteiro = -32;
-        float numFloat = 43.21;
+        float numFloat = 43.2f;
         char caracter = 'a';
         string palavra = "Batata";
+
+        Console.WriteLine(byte1);
+        Console.WriteLine(numInteiro);
+        Console.WriteLine(numFloat);
+        Console.WriteLine(caracter);
+        Console.WriteLine(palavra);
     }
 }
